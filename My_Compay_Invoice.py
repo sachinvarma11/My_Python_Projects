@@ -54,3 +54,22 @@ print('\t{}'.format(message))
 
 #print end line
 print('*' *55)
+
+
+
+outut:
+  
+  *******************************************************
+                Highdrone Technical Services. Inc
+                478 San Francisco, USA
+=======================================================
+        Product Name            Product Price
+        website development     $99
+        AWS Cloud Services      $300
+        Domain                  $20
+=======================================================
+                                Total
+                                $419
+=======================================================
+        *Thanks for shopping with us visit agian*
+*******************************************************
