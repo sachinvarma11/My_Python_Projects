@@ -1,5 +1,5 @@
 # create a product and price for three items
-from functools import total_ordering
+
 
 
 product1_name, product1_price ='website development', 99
